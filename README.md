@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on myself
 - 🌱 I’m currently learning data mining
 - 🤔 I’m looking for help with finding internship
 <!--
